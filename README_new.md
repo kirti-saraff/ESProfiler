@@ -6,8 +6,11 @@
 ## Tools and Technology Used
 
 Programming Language: Python
+
 Libraries: json, matplotlib
+
 Environment: Google Colab(Jupyter Notebook) 
+
 Version Control: Git and GitHub
 
 This repository contains Python code for parsing and analyzing Mitre ATT&CK data, specifically focusing on adversaries, techniques, and their relationships. The goal is to transform the data into a more organized format and generate visualizations to understand the popularity of different techniques among adversaries.
