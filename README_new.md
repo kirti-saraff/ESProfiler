@@ -36,7 +36,7 @@ Data Understanding: Understanding the complex structure of Mitre ATT&CK data and
 
 Visualization Configuration: Configuring the bar charts to display technique names and IDs appropriately required careful consideration.
 
-Adversaries List Extraction: Getting the right advasary list from the complex structure
+Adversaries List Extraction: Getting the right advasary list from the complex structure.
 
 ## Easiest Parts
 
